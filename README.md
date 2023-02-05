@@ -10,14 +10,8 @@ You can click the Preview link to take a look at your changes.
 --->
 I'm a software developer who has a passion for coming up with elegant solutions to challenging issues. I've worked with a variety of technologies and programming languages, and I enjoy learning about and trying out new methods and tools. Excited  to engage in and provide assistance for open source projects Together, let's create something incredible!
 
-<h1 align="center">Hi , I'm Arvin Nooli</h1>
+<h1 align="center"> Arvin Nooli</h1>
 <h3 align="center">I'm a software developer who has a passion for coming up with elegant solutions to challenging issues. I've worked with a variety of technologies and programming languages, and I enjoy learning about and trying out new methods and tools. Excited to engage in and provide assistance for open source projects Together, let's create something incredible!</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arvinnooli&label=Profile%20views&color=0e75b6&style=flat" alt="arvinnooli" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arvinnooli" alt="arvinnooli" /></a> </p>
-
-- 📫 How to reach me **arvinnooli711@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
