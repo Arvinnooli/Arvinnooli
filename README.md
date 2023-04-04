@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.leetcode.com/https://leetcode.com/arvinnooli711/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/arvinnooli711/" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/https://www.hackerearth.com/@arvinnooli711" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@arvinnooli711" height="30" width="40" /></a>
 <a href="https://discord.gg/arvin_nooli7#3156" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="arvin_nooli7#3156" height="30" width="40" /></a>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5acd7791-41fa-4c6a-8e68-834c63e88e8a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 </p>
 
 - 📫my email : arvinnooli711@gmail.com
