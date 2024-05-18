@@ -9,13 +9,9 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/arvinnooli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arvinnooli" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/arvin-nooli-8ba415221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arvin-nooli-8ba415221/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/17980586/arvin-nooli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17980586/arvin-nooli" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/arvin-nooli-8ba415221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arvin-nooli-8ba415221/" height="30" width="40" /></a>
 <a href="https://instagram.com/arvin_nooli7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arvin_nooli7" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/arvinnooli711" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/arvinnooli711" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/arvinnooli711/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/arvinnooli711/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerearth.com/@arvinnooli711" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@arvinnooli711" height="30" width="40" /></a>
 <a href="https://discord.gg/arvin_nooli7#3156" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="arvin_nooli7#3156" height="30" width="40" /></a>
 
 </p>
