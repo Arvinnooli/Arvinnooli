@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center"> Arvin Nooli</h1>
-<h3 align="center">I'm a third year student who has a passion for coming up with elegant solutions to challenging issues. I've worked with a variety of technologies and programming languages, and I enjoy learning about and trying out new methods and tools. Excited to engage in and provide assistance for open source projects Together, let's create something incredible!</h3>
+<h3 align="center">I'm a Final year Computer Science student who has a passion for coming up with elegant solutions to challenging issues. I've worked with a variety of technologies and programming languages, and I enjoy learning about and trying out new methods and tools. Excited to engage in and provide assistance for open source projects Together, let's create something incredible!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
